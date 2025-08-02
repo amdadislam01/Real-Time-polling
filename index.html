@@ -4,11 +4,53 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Real-Time-Polling</title>
-    <link rel="stylesheet" href="assets/styles.css">
+    <link rel="stylesheet" href="style.css">
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 </head>
 <body>
-    
+    <!-- Live polling container -->
+    <div class="container">
+        <header>
+            <h1><i class="fas fa-poll"></i> Live Poll</h1>
+            <p class="subtitle">Vote and see results in real-time</p>
+        </header>
+
+        <div class="poll-container" id="pollContainer">
+            <div class="poll-question">
+                <h2 id="pollQuestion">Loading question...</h2>
+                <div class="poll-meta">
+                    <span id="totalVotes">0 votes</span>
+                    <span id="pollStatus" class="status-active"><i class="fas fa-circle"></i> Live</span>
+                </div>
+            </div>
+
+            <div class="poll-options" id="pollOptions">
+                <!-- Options will be loaded here -->
+                <div class="loading-options">
+                    <div class="loading-bar"></div>
+                    <div class="loading-bar"></div>
+                    <div class="loading-bar"></div>
+                </div>
+            </div>
+
+            <div class="poll-footer">
+                <button id="shareBtn" class="btn btn-share"><i class="fas fa-share-alt"></i> Share</button>
+                <div class="timer" id="pollTimer">
+                    <i class="fas fa-clock"></i> <span id="timeRemaining">--:--</span>
+                </div>
+            </div>
+        </div>
+
+        <div class="results-container" id="resultsContainer">
+            <h3>Results</h3>
+            <div class="results-chart" id="resultsChart">
+                <!-- Chart will be rendered here -->
+            </div>
+            <div class="results-table" id="resultsTable">
+                <!-- Table will be rendered here -->
+            </div>
+        </div>
+    </div>
 </body>
 </html>
