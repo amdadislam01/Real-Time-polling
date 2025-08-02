@@ -20,14 +20,12 @@ An interactive and responsive **Real-Time Polling Application** built using **HT
 ## 🛠️ Technologies Used
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind" alt="Tech Stack" width="200"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind" alt="Tech Stack" width="320"/>
 </p>
 
 ---
 
 ## 📸 Screenshot
 
-> Replace the image URL below with your live project screenshot:
 
-```md
 <img src="https://i.postimg.cc/YOUR_IMAGE_LINK.png" alt="Real-Time Polling App Screenshot" width="1000"/>
