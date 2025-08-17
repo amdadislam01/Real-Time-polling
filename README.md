@@ -28,4 +28,4 @@ An interactive and responsive **Real-Time Polling Application** built using **HT
 ## 📸 Screenshot
 
 
-<img src="https://i.postimg.cc/YOUR_IMAGE_LINK.png" alt="Real-Time Polling App Screenshot" width="1000"/>
+<img src="https://ik.imagekit.io/yqnbhdlo4/Img/live-polling?updatedAt=1755433890132" alt="Real-Time Polling App Screenshot" width="1000"/>
