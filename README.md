@@ -1,4 +1,4 @@
-# 🗳️ Real-Time Polling Ap
+# 🗳️ Real-Time Polling App
 
 An interactive and responsive **Real-Time Polling Application** built using **HTML**, **CSS**, **JavaScript**, and **Tailwind CSS**. This project allows users to vote on a topic and instantly see the live poll results in an engaging visual format.
 
