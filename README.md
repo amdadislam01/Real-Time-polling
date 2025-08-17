@@ -20,7 +20,7 @@ An interactive and responsive **Real-Time Polling Application** built using **HT
 ## 🛠️ Technologies Used
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,github" alt="Tech Stack" width="320"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,netlify,github" alt="Tech Stack" width="320"/>
 </p>
 
 ---
