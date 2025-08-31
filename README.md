@@ -1,4 +1,4 @@
-# 📊 Real-Time Polling Dashboar
+# 📊 Real-Time Polling Dashboard
 
 A dynamic web application for creating, voting, and visualizing live polls with instant results. Built with modern web technologies for seamless user engagement.
 
